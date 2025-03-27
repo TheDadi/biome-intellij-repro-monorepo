@@ -1,0 +1,10 @@
+{
+  "name": "@biome-intellij-repro/package-9",
+  "private": true,
+  "devDependencies": {
+    "@biomejs/biome": "1.9.4"
+  },
+  "scripts": {
+    "check": "biome check"
+  }
+}

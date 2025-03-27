@@ -1,0 +1,11 @@
+{
+  "name": "@biome-intellij-repro/monorepo",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "check": "pnpm run -r check"
+  },
+  "keywords": [],
+  "author": "",
+  "packageManager": "pnpm@10.6.5"
+}
